@@ -135,7 +135,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Stud-KK&color=ff1493&style=for-the-badge&label=Profile+Views)
 
 
-### ⭐ From [Komal Kalshetti](https://github.com/Stud-KK) with 💖
+### ⭐ From [Komal](https://github.com/Stud-KK) with 💖
 
 <!-- Enhanced Animated Greeting -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=%23FF1493&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80;Always+ready+for+new+challenges!+%F0%9F%92%AA;Happy+Coding!+%F0%9F%8E%89" alt="Closing Message" />
