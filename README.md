@@ -90,8 +90,6 @@
 
 <div align="center">
 
-<!-- Gradient Connection Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,14,17,25&height=40&section=header&text=Let's%20Connect!&fontSize=20&fontColor=fff&fontAlignY=50" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/komal-kalshetti/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/K_K_/)
