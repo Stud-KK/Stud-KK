@@ -17,7 +17,6 @@
 <img align="right" alt="Coding Girl" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 - 🔭 I'm currently working on **exciting full-stack and AI/ML projects**
-- 🌱 I'm currently learning **Advanced Machine Learning & System Design**
 - 👯 I'm looking to collaborate on **innovative tech projects**
 - 💬 Ask me about **JavaScript, React, Python, Java, Spring Boot, AI/ML, and Web Development**
 - 📫 How to reach me: **komalkalshetti989@gmail.com**
