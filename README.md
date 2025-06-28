@@ -104,8 +104,7 @@
 <!-- LeetCode Stats -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/K_K_?theme=light&font=source_code_pro&ext=heatmap)
 
-<!-- Animated Coding Stats -->
-[![Komal's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=komalkalshetti&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
